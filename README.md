@@ -1,6 +1,5 @@
 # priority_celing
 Priority Celing Protocol Impelementation on FreeRTOS 
-Executive Summary
 
 In this project, Priority Ceiling Protocol will be implemented as an added module to FreeRTOS. It will have public interfaces that can 
 1- Create a new “PCP_Mutex”
