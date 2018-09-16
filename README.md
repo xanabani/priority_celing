@@ -1,4 +1,4 @@
-# priority_celing
+# priority ceiling protool
 Priority Celing Protocol Impelementation on FreeRTOS 
 
 In this project, Priority Ceiling Protocol will be implemented as an added module to FreeRTOS. It will have public interfaces that can 
